@@ -1,0 +1,1 @@
+print(readline().split(' ').map(i=>String.fromCharCode(+i)).join('').split('').reverse().join('').split(' ').reverse().join(' '))
