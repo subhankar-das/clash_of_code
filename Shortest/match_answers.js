@@ -1,0 +1,17 @@
+//not sure
+// n=readline()
+// k=readline()
+// a=[],x=[]
+// while(n--){a.push(readline())}
+// for(i=0;i<a.length;i++){
+// b=a[i].indexOf('X')
+// x.push(b==0?'A':b==1?'B':b==2?'C':b==3?'D':'E')
+// }
+// m=x.join('')
+// cnt=100
+// for(i=0;i<+n;i++){
+// if(k[i]!=m[i]){
+// cnt-=10
+// }
+// }
+// print(cnt)

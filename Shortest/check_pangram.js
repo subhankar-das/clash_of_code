@@ -1,0 +1,1 @@
+print(new Set(readline().toLowerCase().split` `.join``).size==26)
